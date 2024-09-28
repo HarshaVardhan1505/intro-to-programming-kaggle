@@ -19,11 +19,6 @@ The course is structured into several modules:
 - **Problem-Solving**: Developed problem-solving skills by working through various exercises and challenges.
 - **Practical Applications**: Applied programming concepts to real-world scenarios.
 
-## Projects
-Throughout the course, I completed several mini-projects and exercises to reinforce my learning. Some of the notable projects include:
-- **Simple Calculator**: A basic calculator that performs arithmetic operations.
-- **Temperature Converter**: A program to convert temperatures between Celsius and Fahrenheit.
-- **Basic Data Analysis**: Analyzing a small dataset using Python.
 
 ## Conclusion
 Completing this course has provided me with a strong foundation in programming, and I am excited to continue my learning journey. I look forward to applying these skills in more advanced projects and courses.
